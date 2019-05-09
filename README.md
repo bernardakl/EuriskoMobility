@@ -6,7 +6,7 @@
 
   - If you do not have react native installed to your Windows or Mac go to React Native installation guide and click on React Native CLI Quickstart tab: [https://facebook.github.io/react-native/docs/getting-started]
   
- - Initialize a react antive project named `Eurisko` and download the files of the project and replace them in your local project folder.
+ - Initialize a react native project named `Eurisko` and download the files of the project and replace them in your local project folder.
  
  - In your terminal, 'cd' into your local React Native project created, and run the following commands:
      ```sh
