@@ -11,7 +11,7 @@
  - In your terminal, 'cd' into your local React Native project created, and run the following commands:
      ```sh
     $ npm install
-    $ react-native link`
+    $ react-native link
     ```
 - Now you should be able to run 'react-native run-ios' or 'react-native run-android' as mentioned in react native installation guide. 
 
